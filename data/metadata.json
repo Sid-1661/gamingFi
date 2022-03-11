@@ -1,0 +1,47 @@
+{
+  "description": "The First Avenger is a 2011 American superhero film based on the Marvel Comics character Captain America.",
+  "external_url": "https://ipfs.io/ipfs/QmVjm1dr2roPi2PWDPMtdHT1KdFe1xnMLU6vuCiQ6oj6kG",
+  "image": "https://ipfs.io/ipfs/QmVjm1dr2roPi2PWDPMtdHT1KdFe1xnMLU6vuCiQ6oj6kG",
+  "name": "Captain America",
+  "attributes": [
+    {
+      "trait_type": "Weapon",
+      "value": "Sheild"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Surprised"
+    },
+    {
+      "trait_type": "Level",
+      "value": 5
+    },
+    {
+      "trait_type": "Stamina",
+      "value": 1.4
+    },
+    {
+      "trait_type": "Personality",
+      "value": "Sad"
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "Sheild Power",
+      "value": 40
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "Stamina Increase",
+      "value": 10
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Generation",
+      "value": 1
+    }
+  ]
+}
